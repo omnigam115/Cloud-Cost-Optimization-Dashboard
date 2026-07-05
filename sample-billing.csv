@@ -1,0 +1,41 @@
+date,service,cost,region,account,category
+2024-01-01,EC2,1245.32,us-east-1,Production,Compute
+2024-01-01,RDS,890.10,us-east-1,Production,Database
+2024-01-01,S3,342.80,us-east-1,Production,Storage
+2024-01-01,Lambda,45.20,us-west-2,Production,Serverless
+2024-01-01,CloudFront,122.50,Global,Production,CDN
+2024-01-01,ECS,560.90,us-east-1,Production,Compute
+2024-01-01,ElastiCache,278.40,us-east-1,Production,Database
+2024-01-01,Route 53,25.10,Global,Production,Networking
+2024-01-01,EC2,320.00,eu-west-1,Staging,Compute
+2024-01-01,RDS,210.00,eu-west-1,Staging,Database
+2024-02-01,EC2,1320.10,us-east-1,Production,Compute
+2024-02-01,RDS,920.40,us-east-1,Production,Database
+2024-02-01,S3,358.90,us-east-1,Production,Storage
+2024-02-01,Lambda,48.70,us-west-2,Production,Serverless
+2024-02-01,CloudFront,130.20,Global,Production,CDN
+2024-02-01,ECS,590.30,us-east-1,Production,Compute
+2024-02-01,ElastiCache,285.60,us-east-1,Production,Database
+2024-02-01,Route 53,25.80,Global,Production,Networking
+2024-02-01,EC2,335.00,eu-west-1,Staging,Compute
+2024-02-01,RDS,220.00,eu-west-1,Staging,Database
+2024-03-01,EC2,1410.80,us-east-1,Production,Compute
+2024-03-01,RDS,950.20,us-east-1,Production,Database
+2024-03-01,S3,375.40,us-east-1,Production,Storage
+2024-03-01,Lambda,52.30,us-west-2,Production,Serverless
+2024-03-01,CloudFront,140.10,Global,Production,CDN
+2024-03-01,ECS,620.50,us-east-1,Production,Compute
+2024-03-01,ElastiCache,295.80,us-east-1,Production,Database
+2024-03-01,Route 53,26.20,Global,Production,Networking
+2024-03-01,EC2,350.00,eu-west-1,Staging,Compute
+2024-03-01,RDS,230.00,eu-west-1,Staging,Database
+2024-04-01,EC2,1680.30,us-east-1,Production,Compute
+2024-04-01,RDS,1020.60,us-east-1,Production,Database
+2024-04-01,S3,398.70,us-east-1,Production,Storage
+2024-04-01,Lambda,61.40,us-west-2,Production,Serverless
+2024-04-01,CloudFront,155.80,Global,Production,CDN
+2024-04-01,ECS,710.20,us-east-1,Production,Compute
+2024-04-01,ElastiCache,320.40,us-east-1,Production,Database
+2024-04-01,Route 53,27.50,Global,Production,Networking
+2024-04-01,EC2,420.00,eu-west-1,Staging,Compute
+2024-04-01,RDS,260.00,eu-west-1,Staging,Database
